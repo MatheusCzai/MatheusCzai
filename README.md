@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MatheusCzai
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MatheusCzai/MatheusCzai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋Oi eu me chamo Matheus Czaikowski Alves e tenho 15 anos
+- 💞️ Estou inteiressado em fazer faculdade de direito
+- 📫 matheus.czaikowski.alves@escola.pr.gov.br
